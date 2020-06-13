@@ -1,0 +1,48 @@
+h1{
+	text-align: center;
+}
+.border1{
+	color: yellow;
+	background-color: green;
+	margin: 15px 500px 15px;
+	padding: 15px;
+	border:5px solid black;
+}
+h2{
+	font-size: 30px;
+	color: purple;
+}
+.border2{
+	border: 3px solid black;
+	margin: 5px 5px 5px;
+	padding: 15px;
+	background-color: skyblue;
+
+}
+h6{
+	font-size: 30px;
+	color: blue;
+}
+.inline a{
+	display: inline;
+	padding: 15px;
+	background-color: salmon;
+	border: 2px solid red;
+}
+.head1{
+	color: green;
+	font-size: 15px;
+}
+.head3{
+	color:blue violet;
+	font-size: 15px;
+}
+.ul{
+	display: inline-block;
+}
+.border3{
+	background-color: gray;
+	border: 3px solid black;
+	margin: 5px 5px 5px;
+	padding: 15px;
+}
